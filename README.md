@@ -1,6 +1,8 @@
 # LAB3Dev
 LAB 3 – Formulaire et navigation entre activités
 
+# 📱 Android Intent Transfer : Lab Practice
+
 Ce projet Java/Android met en avant l'interaction entre deux écrans (Activities) via le transfert de données utilisateur. L'application valide la saisie d'un formulaire et affiche un récapitulatif complet.
 
 ---
@@ -15,16 +17,7 @@ Ce projet Java/Android met en avant l'interaction entre deux écrans (Activities
 
 ---
 
-## 📽️ Aperçu Vidéo du Test
-*Visionnez ci-dessous le cycle complet de l'application (Saisie -> Envoi -> Affichage) :*
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/5cf75e2b-2458-4814-9a59-65e855757d75" width="300" controls>
-    Lecture vidéo non supportée.
-  </video>
-</div>
-
----
 
 ## 💻 Développement & Logique
 L'application repose sur les piliers suivants du développement Android :
@@ -42,5 +35,8 @@ L'application repose sur les piliers suivants du développement Android :
 2. Ouvrez le projet dans votre IDE (**Android Studio**).
 3. Connectez un appareil ou lancez un émulateur.
 4. Appuyez sur **Run** pour déployer l'application.
+
+
+
 
 
